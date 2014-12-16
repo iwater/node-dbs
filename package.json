@@ -9,7 +9,7 @@
     "nodetime": "~0.8.15",
     "reconnect-net": "~0.0.0",
     "request": "~2.33.0",
-    "toolkit": "~0.0.0",
+    "toolkit": "iwater/tookit",
     "winston": "~0.7.2"
   },
   "devDependencies": {},
